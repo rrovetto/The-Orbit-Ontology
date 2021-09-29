@@ -1,5 +1,5 @@
 # The-Orbit-Ontology
-An ontology of orbits in outer space
+An ontology of orbits in outer space, i.e., gravitationally-bound orbits.
 
 
 ### Support
