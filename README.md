@@ -3,6 +3,9 @@ An ontology of orbits in outer space, i.e., gravitationally-bound orbits.
 
 **Alternative names**: The Orbit Type Ontology, The Gravitational Orbit Ontology, The Gravitaitonal Orbit Type Ontology, The Astronomical Orbit Ontology, The Astronomical Orbit Type Ontology, ...
 
+## Author
+Robert J. Rovetto
+
 ### Support
 If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
 
