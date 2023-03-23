@@ -10,7 +10,10 @@ _See also the Ontology Requirements Specification Document (purchase link coming
 The ontology captures concepts of astronomical orbits, their characteristics, and ways to classify them. It provides various categories for orbits, along various dimensions of categoriztion, such as orbital elements and other quantities.  
 
 ### Purpose
-* To formally represent
+* To provide formal representations of orbits
+* To provide an accurate terminology and set of categories that may become standards 
+* To support safe and sustainable spaceflight and astronomy
+* To innovate and explore applications of the ontology to such things as AI, MBSE, data management, content search & retrieval, interoperability, etc. 
 
 ### Architecture
 A self-contained module, usable by itself, but also part of the author's wider [space domain knowledge modeling](https://purl.org/space-ontology) suite of ontologies and other knowledge organization systems.
