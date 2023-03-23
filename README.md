@@ -4,7 +4,7 @@ An ontology of types of orbits in outer space, i.e., the orbits of astronomy and
 _Alternative names_: The Orbit Type Ontology, The Gravitational Orbit Ontology, The Gravitaitonal Orbit Type Ontology, The Astronomical Orbit Ontology, The Astronomical Orbit Type Ontology, The Celestial Orbit Ontology, ...
 
 ## Description
-
+_See also the Ontology Requirements Specification Document (purchase link coming soon)._
 
 ### Scope
 The ontology captures concepts of astronomical orbits, their characteristics, and ways to classify them. It provides various categories for orbits, along various dimensions of categoriztion, such as orbital elements and other quantities.  
